@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Pajala",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2023-10-23T08:41:14.479Z",
+      "notes": "lololo",
+      "position": {
+        "lat": "67.06743335108298",
+        "lng": "23.115234375"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Kwimba District",
+      "country": "Tanzania, the United Republic of",
+      "emoji": "🇹🇿",
+      "date": "2023-10-23T08:55:51.404Z",
+      "notes": "mk",
+      "position": {
+        "lat": "-3.2940822283128046",
+        "lng": "33.24462890625001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Chamwino",
+      "country": "Tanzania, the United Republic of",
+      "emoji": "🇹🇿",
+      "date": "2023-10-23T08:58:31.829Z",
+      "notes": "dgd",
+      "position": {
+        "lat": "-6.599130675207247",
+        "lng": "35.59570312500001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Madridejos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-23T09:01:28.978Z",
+      "notes": "dgfg",
+      "position": {
+        "lat": "39.38526381099774",
+        "lng": "-3.5815429687500004"
+      },
+      "id": 98443208
+    }
+  ]
+}
