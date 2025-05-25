@@ -1,9 +1,8 @@
 <h1 align="center">MERN </h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
-About This Course:
 
+About This 
 - ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
 - 🔥 Build an API
 - 📱 Responsive UI With React.js and ChakraUI
